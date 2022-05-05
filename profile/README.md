@@ -17,3 +17,5 @@ Each repository has its own documentation, check them out!
 We spend way too much time on unnecessary features and related bug fixing 😆
 
 🧙 This is just a wizard, we don't know what he's going to do..
+
+Favicon Attribution: <a href="https://www.flaticon.com/free-icons/food-and-restaurant" title="food and restaurant icons">Food and restaurant icons created by Freepik - Flaticon</a>
